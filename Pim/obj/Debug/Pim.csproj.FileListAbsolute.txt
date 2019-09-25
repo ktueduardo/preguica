@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Pim\Pim\bin\Debug\Pim.exe.config
+C:\Users\PC\source\repos\Pim\Pim\bin\Debug\Pim.exe
+C:\Users\PC\source\repos\Pim\Pim\bin\Debug\Pim.pdb
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.Form1.resources
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.Properties.Resources.resources
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.exe
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.pdb
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.ListFuncionarios.resources
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.CadastroDaEmpresa.resources
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.CadastroDeFilial.resources
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.CadastroDeFuncionarios.resources
+C:\Users\PC\source\repos\Pim\Pim\obj\Debug\Pim.Empresas.resources
